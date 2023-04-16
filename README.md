@@ -11,4 +11,4 @@ There are currently four modules available:
  3. Lesson_01: A more systematic introduction, suitable for self study
  4. Lesson_02: Builds on the previous notebook and looks at the use of APIs to enriche an analysis. This will not run in Jupyterlite. 
  
- 
+ License: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
