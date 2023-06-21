@@ -6,8 +6,8 @@ Author: Serge Droz
 
 There are currently four modules available:
 
- 1. Tutorial: A simple notebook demonstrating how data can be anlized
- 2. Cowrie: A somewhat more involved notbook to analyze honeypot logs
+ 1. Tutorial: A simple notebook demonstrating how data can be analized
+ 2. Cowrie: A somewhat more involved notebook to analyze honeypot logs
  3. Lesson_01: A more systematic introduction, suitable for self study
  4. Lesson_02: Builds on the previous notebook and looks at the use of APIs to enriche an analysis. This will not run in Jupyterlite. 
  
