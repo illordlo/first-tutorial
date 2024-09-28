@@ -11,3 +11,6 @@ jupyterlite-core>=0.4.1
 jupyterlite-pyodide-kernel==0.0.5
 # dependency for indexing the content
 jupyterlab~=4.2.5
+PySocks
+flask
+requests
